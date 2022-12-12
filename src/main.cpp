@@ -1,5 +1,5 @@
 #include <string>
-#include "../testdep.hpp"
+#include <testdep.hpp>
 
 int main(int /*argc*/, char** /*argv*/)
 {
